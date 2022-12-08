@@ -1,1 +1,1 @@
-# Clothes_Image_Detection
+<h1>Image Classification with Clothes Pictures</h1>
